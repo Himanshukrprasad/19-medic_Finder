@@ -8,16 +8,27 @@ All the hospitals and essentials covid supplier have to registered themselves an
 ---
 ### Tech used to implement the Idea
 > HTML5
+
 > CSS3
+
 > JS
+
 > Bootstrap
+
 > JQuery
+
 > NodeJs
+
 > npm packages
+
 > Ejs template egine
+
 > MongoDB 
+
 > AI demand forecasting tools
+
 > Json
+
 > shell
 
 ---
