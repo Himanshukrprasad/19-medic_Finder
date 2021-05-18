@@ -4,7 +4,7 @@
     <img src="https://preview.pixlr.com/images/800wm/14558/1/14558100127.jpg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">!9-Medic Finder</h3>
+  <h3 align="center">19-Medic Finder</h3>
 
   <p align="center">
     Web based Application to help people find essential nearby
