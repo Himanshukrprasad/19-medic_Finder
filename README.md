@@ -1,3 +1,25 @@
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://preview.pixlr.com/images/800wm/14558/1/14558100127.jpg">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">!9-Medic Finder</h3>
+
+  <p align="center">
+    Web based Application to help people find essential nearby
+    <br />
+    <a href="#"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="#">View Demo</a>
+    ·
+    <a href="#">Report Bug</a>
+    ·
+    <a href="#">Request Feature</a>
+  </p>
+</p>
+
 ## 19-medic_Finder
 * * It is a Web based Application developed to fight the covid-19. It will help to find covid related essentials like beds , oxygen , medicines specially in the rural part of the country where the availablity of such things are limited.So we come up with this Idea to contribute in the fight against Covid-19. The name of the web app is "19-medic finder"  where 19 refer to covid varient of 19 class.
 ----
