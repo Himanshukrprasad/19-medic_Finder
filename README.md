@@ -27,8 +27,9 @@
 <!-- PROJECT POSTER -->
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="1080px" height="1080px">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="1080px" height="580px">
   </a>
+  </p>
 
 ### IDEA & WORKING
 * * This is an web based application where any people can find and locate covid beds, medicine , oxygen , Government and private covid hospitals and clinics. User have to sign-in and fill out some details of the patient . And if he will search beds , oxygen he will get notified only near by hospitals, oxygen availablity around his radius of residence , he can contact at the same time. And if not available he will notified when the facilities will be available in nearby areas as well as in nearby cities.
