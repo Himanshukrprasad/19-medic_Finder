@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Logos/19medivcfinderlogo.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Logos/19medivcfinderlogo.png" alt="Logo" width="500px" height="500px">
   </a>
 
   <h3 align="center">19-Medic Finder</h3>
