@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Logos/19medivcfinderlogo.png" alt="Logo" width="400px" height="400px">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Logos/19medivcfinderlogo.png" alt="Logo" width="300px" height="300px">
   </a>
 
   <h3 align="center">19-Medic Finder</h3>
@@ -27,7 +27,7 @@
 <!-- PROJECT POSTER -->
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="1080px" height="580px">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="680px" height="280px">
   </a>
   </p>
 
