@@ -27,7 +27,7 @@
 <!-- PROJECT POSTER -->
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="680px" height="280px">
+    <img src="https://raw.githubusercontent.com/ZiaCodes/img_server/main/Services/poster.png" alt="POSTER" width="1080px" height="580px">
   </a>
   </p>
 
