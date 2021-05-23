@@ -64,5 +64,5 @@ All the hospitals and essentials covid supplier have to registered themselves an
 ---
 
 
-* Source Code will be here after 24th may
+
 *  * DEMO : Available soon...
